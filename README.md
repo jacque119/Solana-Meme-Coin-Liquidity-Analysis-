@@ -39,5 +39,6 @@ Analyzed Solana-based meme coins to evaluate liquidity patterns using market cap
 ## 👤 Author
 
 **Reza Febian Agassi**  
-📫 [LinkedIn](www.linkedin.com/in/reza-agassi-62240b2b7) | 🐙 [GitHub](https://github.com/jacque119)
+🔗 [LinkedIn](https://www.linkedin.com/in/reza-agassi-62240b2b7/) | 🐙 [GitHub](https://github.com/jacque119)
+
 
